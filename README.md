@@ -1,36 +1,49 @@
 # w3resource Python Solutions
 
-Clean, structured, and modular solutions to the [w3resource Python Exercises](https://www.w3resource.com/python-exercises/).
+This repository contains clean, readable Python solutions for exercises from [w3resource](https://www.w3resource.com/python-exercises/).
 
-Each exercise includes:
+The main goal is to practice Python fundamentals while keeping each solution easy to understand, well-structured, and consistent with Python best practices.
 
-- Production-grade code following PEP 8 guidelines
-- Standard entry point (`if __name__ == "__main__":`)
-- Type hinting (`-> None`, etc.)
-- Dedicated documentation explaining the problem and solution
+## What this repository includes
 
----
+- Solutions organized by exercise category and section
+- PEP 8-friendly formatting
+- Clear entry points using `if __name__ == "__main__":`
+- Type hints where appropriate
+- A simple structure that makes it easy to navigate and extend
 
-## Progress Tracker
-
-### 01. Python Basic (Part-I)
-
-|  #  | Exercise                                                                               |                                         Solution                                         | Notes / Concepts                           |  Status   |
-| :-: | :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: | :----------------------------------------- | :-------: |
-| 001 | [Formatted Twinkle Poem](Exercises/01-Python-Basic/Part-1/001-Formatted-Twinkle-Poem/) | [`solution.py`](Exercises/01-Python-Basic/Part-1/001-Formatted-Twinkle-Poem/solution.py) | Escape characters (`\n`, `\t`), Type hints | Completed |
-| 002 | Get Python Version                                                                     |                                            -                                             | `sys` module, platform details             |  Pending  |
-
----
-
-## Project Structure
+## Project structure
 
 ```text
 w3resource-python-solutions/
+├── README.md
 ├── Exercises/
 │   └── 01-Python-Basic/
 │       └── Part-1/
 │           └── 001-Formatted-Twinkle-Poem/
 │               ├── README.md
 │               └── solution.py
-└── README.md
+└── ...
 ```
+
+## How to use
+
+1. Clone the repository.
+2. Open any exercise folder.
+3. Read the exercise description in that folder.
+4. Run the solution with Python:
+
+```bash
+python solution.py
+```
+
+## Progress tracker
+
+### 01. Python Basic (Part-I)
+
+|  #  | Exercise                                                                               |                                         Solution                                         | Concepts                                        |  Status   |
+| :-: | :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: | :---------------------------------------------- | :-------: |
+| 001 | [Formatted Twinkle Poem](Exercises/01-Python-Basic/Part-1/001-Formatted-Twinkle-Poem/) | [`solution.py`](Exercises/01-Python-Basic/Part-1/001-Formatted-Twinkle-Poem/solution.py) | Escape sequences, string formatting, type hints | Completed |
+| 002 | Get Python Version                                                                     |                                            -                                             | `sys` and platform information                  | Completed |
+
+This repository is currently being expanded with more exercises and solutions over time.
