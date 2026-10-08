@@ -44,6 +44,6 @@ python solution.py
 |  #  | Exercise                                                                               |                                         Solution                                         | Concepts                                        |  Status   |
 | :-: | :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: | :---------------------------------------------- | :-------: |
 | 001 | [Formatted Twinkle Poem](Exercises/01-Python-Basic/Part-1/001-Formatted-Twinkle-Poem/) | [`solution.py`](Exercises/01-Python-Basic/Part-1/001-Formatted-Twinkle-Poem/solution.py) | Escape sequences, string formatting, type hints | Completed |
-| 002 | Get Python Version                                                                     |                                            -                                             | `sys` and platform information                  | Completed |
+| 002 | [Get Python Version](Exercises/01-Python-Basic/Part-1/002-Get-Python-Version/)     | [`solution.py`](Exercises/01-Python-Basic/Part-1/002-Get-Python-Version/solution.py) | `sys` and platform information                  | Completed |
 
 This repository is currently being expanded with more exercises and solutions over time.
