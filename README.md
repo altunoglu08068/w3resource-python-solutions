@@ -45,5 +45,6 @@ python solution.py
 | :-: | :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------: | :---------------------------------------------- | :-------: |
 | 001 | [Formatted Twinkle Poem](Exercises/01-Python-Basic/Part-1/001-Formatted-Twinkle-Poem/) | [`solution.py`](Exercises/01-Python-Basic/Part-1/001-Formatted-Twinkle-Poem/solution.py) | Escape sequences, string formatting, type hints | Completed |
 | 002 | [Get Python Version](Exercises/01-Python-Basic/Part-1/002-Get-Python-Version/)     | [`solution.py`](Exercises/01-Python-Basic/Part-1/002-Get-Python-Version/solution.py) | `sys` and platform information                  | Completed |
+| 003 | [Current Date and Time](Exercises/01-Python-Basic/Part-1/003-Current-Date-and-Time/) | [`solution.py`](Exercises/01-Python-Basic/Part-1/003-Current-Date-and-Time/solution.py) | `datetime` formatting and output                 | Completed |
 
 This repository is currently being expanded with more exercises and solutions over time.
